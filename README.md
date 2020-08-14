@@ -1,4 +1,4 @@
-## Hey There, [Hasnen Tai!](https://youtube.com/trendingcodes) Here 👋
+## Hey There, [Hasnen Tai](https://youtube.com/trendingcodes) Here 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnentai&label=Views&color=green&style=plastic" alt="tai" /> </p>
 
@@ -44,7 +44,9 @@
 <a href="https://github.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnentai&theme=light&hide_langs_below=1" />
 </a>
-
+<a href="https://github.com/hasnentai">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnentai&show_icons=true&theme=light&line_height=27" alt="hasnentai's github stats"/>
+</a>
 
 
 <div align="center">
