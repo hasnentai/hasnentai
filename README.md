@@ -2,7 +2,7 @@
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
-- 🏋️‍♂️ I spent 2 hours daily in gym
+- 🏋️‍♂️ I spend 2 hours daily in gym
 - 📱 Talk to me about Flutter and stuff.
 - 🌱 I’m currently learning more about BlockChain.
 - 📫 How to reach me: Check social links below.
